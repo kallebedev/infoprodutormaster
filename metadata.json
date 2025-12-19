@@ -1,0 +1,7 @@
+{
+  "name": "Infoprodutor Master",
+  "description": "A decisive, AI-driven sales page builder for infoproduct creators focused purely on conversion rates and direct-response copywriting.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
